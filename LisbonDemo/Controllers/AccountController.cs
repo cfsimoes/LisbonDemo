@@ -14,7 +14,7 @@ using LisbonDemo.Models;
 namespace LisbonDemo.Controllers
 {
     [Authorize]
-    [InitializeSimpleMembership]
+    [InitializeSimpleMembership]     
     public class AccountController : Controller
     {
         //
