@@ -98,6 +98,7 @@ namespace LisbonDemo.Controllers
             {
                 return HttpNotFound();
             }
+            string d = "";
             return View(candidate);
         }
 
