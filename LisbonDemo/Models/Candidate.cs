@@ -25,7 +25,7 @@ namespace LisbonDemo.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public int Id { get; set; } // comment
         public string Name { get; set; }// dummy comment
     }
 }
