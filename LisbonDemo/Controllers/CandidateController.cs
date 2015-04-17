@@ -35,7 +35,7 @@ namespace LisbonDemo.Controllers
         }
 
         //
-        // GET: /Candidate/Create
+        // GET: /Candidate/Create    ertyertey
 
         public ActionResult Create()
         {
